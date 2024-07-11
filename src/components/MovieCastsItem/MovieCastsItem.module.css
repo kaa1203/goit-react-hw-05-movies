@@ -1,0 +1,11 @@
+.castItem {
+   width: calc(100% / 5 - 10px);
+}
+
+.castImage {
+   border-radius: 8px;
+}
+
+.castName {
+   text-align: center;
+}

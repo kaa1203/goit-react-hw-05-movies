@@ -1,0 +1,8 @@
+.movieListItem {
+   width: calc(100% / 4 - 20px);
+}
+
+.movieImage {
+   height: 450px;
+   border-radius: 10px;
+}

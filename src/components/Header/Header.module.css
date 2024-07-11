@@ -1,0 +1,22 @@
+.header {
+   background-color: rgba(76, 76, 158, 0.89);
+   margin-bottom: 20px;
+}
+
+.navBar {
+   display: flex;
+   gap: 10px;
+   width: 1080px;
+   margin: 0 auto;
+   padding: 20px;
+   color: rgb(212, 196, 196);
+}
+
+.navLinks {
+   display: flex;
+   gap: 10px;
+}
+
+.active {
+   color: red;
+}
